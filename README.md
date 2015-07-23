@@ -9,7 +9,7 @@ html2text is a very simple script that uses PHP's DOM methods to load from HTML,
 <body>
   <h1>Hello, World!</h1>
 
-  <p>This is some e-mail content.
+  <p>This is some e-mail content. my change
   Even though it has whitespace and newlines, the e-mail converter
   will handle it correctly.
 
